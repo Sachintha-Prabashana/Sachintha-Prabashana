@@ -13,15 +13,15 @@
 
   <br/>
 
-  <a href="https://prabashana.me" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.prabashana.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" height="38" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sachinthaprabashana" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sachintha-prabashana-499209346/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/💼%20Connect%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sachinthaprabashana@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:sachinthaprabhashana2003@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/✉️%20Email%20Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
   </a>
 
