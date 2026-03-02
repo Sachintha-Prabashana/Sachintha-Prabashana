@@ -120,8 +120,8 @@ I’m **Sachintha Prabashana**, a passionate **Software Engineering Student** at
 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <a href="https://linkedin.com/in/sachinthaprabashana" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>&nbsp;&nbsp;
-  <a href="mailto:sachinthaprabashana@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sachintha-prabashana-499209346/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>&nbsp;&nbsp;
+  <a href="mailto:sachinthaprabhashana2003@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail.png"/></a>&nbsp;&nbsp;
   <a href="https://github.com/Sachintha-Prabashana" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/></a>
   
   <br/><br/>
