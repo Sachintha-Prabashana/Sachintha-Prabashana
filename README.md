@@ -41,7 +41,7 @@ I’m **Sachintha Prabashana**, a passionate **Software Engineering Student** at
 
 ## 🛠️ Technical Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,mongodb,mysql,firebase,nextjs,tailwind,docker,kubernetes,git,github,linux,vercel,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,mongodb,mysql,firebase,nextjs,tailwind,docker,kubernetes,git,github,vercel,idea,vscode" />
 </div>
 
 ---
